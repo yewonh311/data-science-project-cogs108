@@ -1,7 +1,5 @@
 This is your group repo for your final project for COGS108.
 
-This repository is private, and is only visible to the course instructors and your group mates; it is not visible to anyone else.
-
 Template notebooks for each component are provided. Only work on the notebook prior to its due date. After each submission is due, move onto the next notebook (For example, after the proposal is due, start working in the Data Checkpoint notebook). 
 
 This repository will be frozen on the final project due date. No further changes can be made after that time.
